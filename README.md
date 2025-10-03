@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&align=center&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Parakrama+Welipitiya;Bachelor+of+Software+Engineering+Honors+Degree)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&align=center&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Parakrama+Welipitiya;Undergraduate+Student;Bachelor+of+Software+Engineering+Honors+Degree)](https://git.io/typing-svg)
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=ParakramaWelipitiya&label=Profile%20views&color=0e75b6&style=flat" alt="ParakramaWelipitiya" />
@@ -6,13 +6,9 @@
 </div>
 
 ### 👨‍💻 About Me:
-- 🌱 Currently learning **Web and Mobile App Development** using **Flutter, React, Node.js**, and **AI technologies**.  
-- 👯 Looking to collaborate on **full-stack projects, mobile apps**, and **open-source contributions**.  
-- 📝 I write articles on **software engineering, programming tips, and tech innovations**.  
-- 💬 Ask me about **Flutter, React, AI integration, full-stack development**, and **coding challenges**.  
-- 📫 Reach out: [parakramawelipitiya00@gmail.com](mailto:parakramawelipitiya00@gmail.com)  
-- 📄 Professional profile: [LinkedIn](https://www.linkedin.com/in/parakrama-welipitiya-8b8553344/)  
-- ⚡ Fun Fact: **I enjoy solving complex problems, exploring new tech, and building impactful apps.**  
+- Undergraduate Software Engineering Student
+- Reach out: [parakramawelipitiya00@gmail.com](mailto:parakramawelipitiya00@gmail.com)  
+- Professional profile: [LinkedIn](https://www.linkedin.com/in/parakrama-welipitiya-8b8553344/)  
 
 ### 🌐 Connect with Me:
 <p align="left">
@@ -63,16 +59,6 @@
 
 #### **GitHub Streak**
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ParakramaWelipitiya&theme=algolia" alt="GitHub Streak" /></a>
-
-### 🎯 My Goals for 2025:
-- **Master** Flutter & Dart for building high-performance cross-platform apps.  
-- **Develop** full-stack applications with React, Node.js, and MongoDB, integrating AI features.  
-- **Contribute** to open-source projects and strengthen community engagement.  
-- **Write** technical articles to share knowledge and improve my skills.  
-- **Participate** in global hackathons to enhance coding experience.  
-- **Build** a portfolio of impactful projects solving real-world problems.  
-- **Mentor** aspiring developers and collaborate on innovative tech solutions.  
- 
 
 ### 🚀 Let’s Build Something Amazing Together!
 Feel free to reach out if you're interested in collaborating on projects or discussing software development trends. 😄
