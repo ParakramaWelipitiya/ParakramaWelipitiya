@@ -12,9 +12,3 @@
   <img src="https://komarev.com/ghpvc/?username=ParakramaWelipitiya&label=Profile%20views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/ParakramaWelipitiya?label=Followers&style=social" />
 </p>
-
-#### **GitHub Streak**
-<a href="[https://git.io/streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=RensithUdara&theme=algolia)">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParakramaWelipitiya&theme=algolia" />
-</a>
-
