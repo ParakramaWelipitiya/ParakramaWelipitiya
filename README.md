@@ -3,7 +3,6 @@
 <a href="https://git.io/typing-svg">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineering+Undergraduate;Building+Creative+Developer+Tools"
-    alt="Typing SVG"
   />
 </a>
 
